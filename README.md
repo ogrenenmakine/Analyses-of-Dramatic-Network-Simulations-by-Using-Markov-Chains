@@ -1,1 +1,7 @@
 # Analyses-of-Dramatic-Network-Simulations-by-Using-Markov-Chains
+
+dvances in Computational Linguistics have increasingly made Artificial Literature (ALit) possible. ALit is a field of study that aims to enable the computer to generate literary works just like reference texts. This similarity may be direct linguistic similarity (language models) or it can be structural similarity. The aim of this study is to analyze with the simulation technique that required for the Artificial Literature field.
+
+For this purpose, the speech sequences of the characters by Sophocles' Antigone play, is simulated and presented. This is so called the dramatic network. When a scene begins, the characters join the game through conversations. If we list the order of character speeches in one scene, it is observed that the plays form a markov chain. Each play can be considered as a stochastic process. If each character is taken as a state, the transition from one state to another is the transition of one character's speech to the next. In this theoretical framework, the probability of occurrence in each state is calculated and the probabilities of transition from one state to another are demonstrated. Finally, if this game is simulated iteratively, the average length of the simulations is obtained.
+
+As a result, the analyzes made by considering only the speech sequences have a structural importance for the simulations as put forward by Franco Moretti.
