@@ -1,4 +1,4 @@
-# Analyses-of-Dramatic-Network-Simulations-by-Using-Markov-Chains
+## Analyses of Dramatic Network Simulations by Using Markov Chains
 
 dvances in Computational Linguistics have increasingly made Artificial Literature (ALit) possible. ALit is a field of study that aims to enable the computer to generate literary works just like reference texts. This similarity may be direct linguistic similarity (language models) or it can be structural similarity. The aim of this study is to analyze with the simulation technique that required for the Artificial Literature field.
 
